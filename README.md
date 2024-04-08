@@ -1,10 +1,7 @@
 # Medical-Chatbot-Using-Llama2
 
-## Introduction
-# Medical-Chatbot-Using-Llama2
-
-## Introduction
-Welcome to the Medical Chatbot project! This chatbot is designed to assist you with your medical queries by providing services such as disease diagnosis and medication suggestions.
+## Problem Statement:
+The healthcare industry faces challenges in providing accessible and timely medical advice to individuals seeking information about their health concerns. Many people may hesitate to visit healthcare professionals due to various reasons, including time constraints, financial limitations, or simply not wanting to bother medical professionals for minor issues. Some individuals even go as far as relying on potentially unreliable sources on the internet. To address this issue, I developed a medical chatbot that can provide accurate and reliable medical advice to users based on their symptoms and medical history. It would provide relevant information in a conversational manner helping users manage their health concerns and making timely and informed decisions about their well-being.
 
 
 ## Steps to run the project
