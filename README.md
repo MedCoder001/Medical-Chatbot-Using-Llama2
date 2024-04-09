@@ -3,6 +3,7 @@
 ## Problem Statement:
 The healthcare industry faces challenges in providing accessible and timely medical advice to individuals seeking information about their health concerns. Many people may hesitate to visit healthcare professionals due to various reasons, including time constraints, financial limitations, or simply not wanting to bother medical professionals for minor issues. Some individuals even go as far as relying on potentially unreliable sources on the internet. To address this issue, I developed a medical chatbot that can provide accurate and reliable medical advice to users based on their symptoms and medical history. It would provide relevant information in a conversational manner helping users manage their health concerns and making timely and informed decisions about their well-being.
 
+![image](https://github.com/MedCoder001/Medical-Chatbot-Using-Llama2/assets/106004456/b032cc94-12f6-4a9d-9c18-be006b9da285)
 
 ## Steps to run the project
 
